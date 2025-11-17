@@ -117,6 +117,7 @@
 - 方法介绍
 
 ```java
+  // 比较字符串的内容必须用equals方法
   public boolean equals(String s)     比较两个字符串内容是否相同、区分大小写
   public boolean equalsIgnoreCase(String s)       比较内容是否相同，不区分大小写
 ```
