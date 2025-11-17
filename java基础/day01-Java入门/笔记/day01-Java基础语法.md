@@ -6,8 +6,6 @@
 
 ​	安装包位于：day01\资料\其他软件\阅读笔记的软件\typora-setup-x64.exe
 
-test
-
 # day01 - Java基础语法
 
 ## 1. 人机交互
