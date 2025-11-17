@@ -173,21 +173,21 @@ public class StudentDemo {
 
 * 成员变量使用过程
 
-![1](images/1.png)
+![](images/1.png)
 
 * 成员方法调用过程
 
-![2](images/2.png)
+![](images/2.png)
 
 ### 2.2 多个对象内存图
 
 * 成员变量使用过程
 
-![3](images/3.png)
+![](images/3.png)
 
 * 成员方法调用过程
 
-![4](images/4.png)
+![](images/4.png)
 
 * 总结：
 
