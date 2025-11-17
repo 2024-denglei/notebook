@@ -5,6 +5,7 @@
 ​	可安装typora软件后再次打开。
 
 ​	安装包位于：day01\资料\其他软件\阅读笔记的软件\typora-setup-x64.exe
+![](assets/file-20251117171043692.png)
 
 # day01 - Java基础语法
 
