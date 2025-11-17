@@ -73,11 +73,13 @@
           System.out.println("s1:" + s1);
   
           //public String(char[] chs)：根据字符数组的内容，来创建字符串对象
+          //需求：可以先把字符串转换为字符数组，然后修改具体的字符来达到改变字符串的目的
           char[] chs = {'a', 'b', 'c'};
           String s2 = new String(chs);
           System.out.println("s2:" + s2);
   
           //public String(byte[] bys)：根据字节数组的内容，来创建字符串对象
+          //网络传输是字节信息，所以可以把字节转化为看的懂的字符串
           byte[] bys = {97, 98, 99};
           String s3 = new String(bys);
           System.out.println("s3:" + s3);
