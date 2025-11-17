@@ -371,6 +371,7 @@ public class Test5数组拼接成字符串 {
 ​	例如，键盘录入 abc，输出结果 cba
 
 #### 2.10.2代码实现
+选中变量，然后shift+F6可以进行批量修改
 
 ```java
 public class Test6反转字符串 {
