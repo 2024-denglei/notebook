@@ -372,6 +372,7 @@ public class Test5数组拼接成字符串 {
 
 #### 2.10.2代码实现
 选中变量，然后shift+F6可以进行批量修改
+选中代码块，然后ctrl+alt+t可以进行快捷生成循环
 
 ```java
 public class Test6反转字符串 {
