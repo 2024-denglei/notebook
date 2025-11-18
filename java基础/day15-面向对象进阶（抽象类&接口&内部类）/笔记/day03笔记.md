@@ -432,6 +432,7 @@ public interface SportMan extends Law , Abc {
 这里接口中的private是为默认方法服务的，static是给静态方法服务的
 ![](assets/day03笔记/file-20251118210551170.png)
 ![](assets/day03笔记/file-20251118211027272.png)
+![](assets/day03笔记/file-20251118211315408.png)
 # 第三章 内部类
 
 ## 3.1 概述
