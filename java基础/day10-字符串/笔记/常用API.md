@@ -219,12 +219,14 @@ public class Test2字符串直接遍历 {
         System.out.println(str);
 
         //2.遍历
+        // 这里可以用toCharArray()方法直接获取字符数组
         for (int i = 0; i < str.length(); i++) {
             //i 依次表示字符串的每一个索引
             //索引的范围：0 ~  长度-1
 
             //根据索引获取字符串里面的每一个字符
             //ctrl + alt + V 自动生成左边的接受变量
+          
             char c = str.charAt(i);
             System.out.println(c);
         }
