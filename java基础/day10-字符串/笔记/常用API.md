@@ -875,7 +875,7 @@ System.out.println(str);//[aaa, bbb, ccc]
 ![](assets/常用API/file-20251118140419987.png)
 3）jdk8之后底层原理，会事先预估拼接的长度
 
-
+![](assets/常用API/file-20251118140714604.png)
 
 
 
