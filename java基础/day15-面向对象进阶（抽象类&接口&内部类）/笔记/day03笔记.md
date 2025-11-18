@@ -529,6 +529,8 @@ public class Outer {
 public class Test {
     public static void main(String[] args) {
         Outer o = new Outer();
+        // 这里如果要使用o.getInstance()返回的Inner对象可以用object来接收
+        // object inner = o.getInstance();
         System.out.println(o.getInstance());
 
 
