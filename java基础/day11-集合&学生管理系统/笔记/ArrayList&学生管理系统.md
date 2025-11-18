@@ -325,6 +325,7 @@ public class ArrayListDemo5 {
      2.2 用Scanner实现键盘输入
      2.3 用switch语句完成选择的功能
      2.4 用循环完成功能结束后再次回到主界面
+     ![](assets/ArrayList&学生管理系统/file-20251118154742455.png)
 
   3. 学生管理系统的添加学生功能实现步骤
 
