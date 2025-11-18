@@ -433,6 +433,9 @@ public interface SportMan extends Law , Abc {
 ![](assets/day03笔记/file-20251118210551170.png)
 ![](assets/day03笔记/file-20251118211027272.png)
 ![](assets/day03笔记/file-20251118211315408.png)
+
+
+#设计模式
 # 第三章 内部类
 
 ## 3.1 概述
