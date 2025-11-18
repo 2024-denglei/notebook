@@ -579,6 +579,7 @@ class Outer {	// 外部类
 
         public void method() {
             int a = 10;
+            // Outer.this记录的是Outer这个类的地址，是INner这个对象被创建时会记录                      // Outer.this来指向Outer这个外部类对象
             System.out.println(???);	// 10   答案：a
             System.out.println(???);	// 20	答案：this.a
             System.out.println(???);	// 30	答案：Outer.this.a
