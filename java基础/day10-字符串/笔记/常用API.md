@@ -873,7 +873,7 @@ System.out.println(str);//[aaa, bbb, ccc]
 ![](assets/常用API/file-20251118135535651.png)
 2）jdk8之前拼接变量的时候，这里产生了四个对象
 ![](assets/常用API/file-20251118140419987.png)
-3）jdk8之后底层原理，会事先预估拼接的长度
+3）jdk8之后底层原理，会事先预估拼接的长度，但是只要每次拼接有变量都会去预估长度，然后创建shu
 
 ![](assets/常用API/file-20251118140714604.png)
 
