@@ -872,7 +872,7 @@ System.out.println(str);//[aaa, bbb, ccc]
    1）没有变量的时候
 ![](assets/常用API/file-20251118135535651.png)
 2）jdk8之前拼接变量的时候
-![](assets/常用API/file-20251118135813443.png)
+![](assets/常用API/file-20251118140419987.png)
 3）jdk8之后底层原理
 
 
