@@ -881,6 +881,6 @@ System.out.println(str);//[aaa, bbb, ccc]
 
 这里结果为true，因为进行拼接的时候没有变量参与，所以编译后s2就等于abc，然后会服用串池中的字符串
 ![](assets/常用API/file-20251118141339040.png)
-
+![](assets/常用API/file-20251118141606266.png)
 
 
