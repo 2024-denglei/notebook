@@ -428,7 +428,7 @@ public interface SportMan extends Law , Abc {
 > 因为中间类没有什么实际的意义，所以一般会把中间类定义为抽象的，不让外界创建对象
 > ![](assets/day03笔记/file-20251118205509130.png)
 
-
+![](assets/day03笔记/file-20251118205906889.png)
 
 # 第三章 内部类
 
