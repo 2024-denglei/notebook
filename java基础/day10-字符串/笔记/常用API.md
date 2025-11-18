@@ -883,4 +883,5 @@ System.out.println(str);//[aaa, bbb, ccc]
 ![](assets/常用API/file-20251118141339040.png)
 ![](assets/常用API/file-20251118141606266.png)
 
-
+默认容量为16，用capacity()方法可以查看
+![](assets/常用API/file-20251118141829158.png)
