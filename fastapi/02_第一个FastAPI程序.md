@@ -13,3 +13,6 @@ async def root():
 async def say_hello(name: str):
 	return {"message": f"Hello {name}"}
 ```
+
+命令启动方式：
+uvicorn main:app --reload
