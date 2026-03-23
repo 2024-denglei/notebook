@@ -1,5 +1,6 @@
 ![](assets/01提示词链（prompt%20chaining）/file-20260323184402523.png)
-![](assets/01提示词链（prompt%20chaining）/file-20260323184413379.png)```
+![675](assets/01提示词链（prompt%20chaining）/file-20260323184413379.png)![](assets/01提示词链（prompt%20chaining）/file-20260323185036533.png)
+```
 import os
 // 导入openai模块
 from langchain_openai import ChatOpenAI
