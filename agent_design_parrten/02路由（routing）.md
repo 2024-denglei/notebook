@@ -1,7 +1,7 @@
 ![](assets/02路由（routing）/file-20260323174448765.png)
 ![](assets/02路由（routing）/file-20260323174516891.png)
 
-```
+```python
 ## Copyright (c) 2025 Marco Fago
 ## https://www.linkedin.com/in/marco-fago/
 #

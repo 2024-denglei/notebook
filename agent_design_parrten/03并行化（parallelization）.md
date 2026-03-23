@@ -1,4 +1,14 @@
+1.`RunnableParallel` 接收一个**字典**作为配置，字典的 **Key** 是结果中的字段名，**Value** 是要运行的组件（Runnable）。
+```python
+from langchain_core.runnables import RunnableParallel 
+parallel_chain = RunnableParallel({ 
+"结果键名1": 组件A, 
+"结果键名2": 组件B, 
+"结果键名3": 组件C, 
+})
 ```
+
+```python
 import os
 
 import asyncio
@@ -216,4 +226,4 @@ if __name__ == "__main__":
    asyncio.run(run_parallel_example(test_topic))
 ```
 
-1.**RunnableParallel**
+
