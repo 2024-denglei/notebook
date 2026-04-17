@@ -1,0 +1,16 @@
+{
+  "items": [
+    {
+      "type": "group",
+      "ctime": 1776417956466,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1776417978341,
+          "path": "deeplearning/01_数学基础.md"
+        }
+      ],
+      "title": "深度学习"
+    }
+  ]
+}
