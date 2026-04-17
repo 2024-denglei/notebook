@@ -1,0 +1,242 @@
+{
+  "workspaces": {
+    "demo": {
+      "main": {
+        "id": "5d9ed12b3a4e3cf1",
+        "type": "split",
+        "children": [
+          {
+            "id": "5c3fe4ebc6c6fda1",
+            "type": "split",
+            "children": [
+              {
+                "id": "b360a29473a9d9eb",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "e10700db27c8ce14",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "fastapi/03_路由.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "03_路由"
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "b70bcf7dda901b08",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "aa3442b25306ed7c",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "fastapi/04_参数.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "04_参数"
+                    }
+                  }
+                ]
+              }
+            ],
+            "direction": "horizontal"
+          },
+          {
+            "id": "55b20aadd7478b73",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "71f6a225634bec32",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "fastapi/01_同步和异步.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "01_同步和异步"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "c1284929e1129e9c",
+        "type": "split",
+        "children": [
+          {
+            "id": "73715c4d4e1dd8dc",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "f4d7d303820741bc",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "autoReveal": false
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "文件列表"
+                }
+              },
+              {
+                "id": "b4c61ba7b51474f9",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-search",
+                  "title": "搜索"
+                }
+              },
+              {
+                "id": "348195df4b1d8dc4",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {},
+                  "icon": "lucide-bookmark",
+                  "title": "书签"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 226.5
+      },
+      "right": {
+        "id": "91bb99cca4a5127f",
+        "type": "split",
+        "children": [
+          {
+            "id": "cfbe22c3b30c75dd",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "25ab520382204388",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "java基础/day15-面向对象进阶（抽象类&接口&内部类）/笔记/day03笔记.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-coming-in",
+                  "title": "day03笔记 的反向链接列表"
+                }
+              },
+              {
+                "id": "ff30fe7a34785fbe",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "java基础/day15-面向对象进阶（抽象类&接口&内部类）/笔记/day03笔记.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-going-out",
+                  "title": "day03笔记 的出链列表"
+                }
+              },
+              {
+                "id": "d261643bf3be93d8",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-tags",
+                  "title": "标签"
+                }
+              },
+              {
+                "id": "83a4c1361513bd33",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-archive",
+                  "title": "添加笔记属性"
+                }
+              },
+              {
+                "id": "a66f4b29a2028d7a",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "java基础/day15-面向对象进阶（抽象类&接口&内部类）/笔记/day03笔记.md",
+                    "followCursor": false,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-list",
+                  "title": "day03笔记 的大纲"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "bases:新建数据库": false,
+          "switcher:打开快速切换": false,
+          "graph:查看关系图谱": false,
+          "canvas:新建白板": false,
+          "daily-notes:打开/创建今天的日记": false,
+          "templates:插入模板": false,
+          "command-palette:打开命令面板": false,
+          "obsidian-git:Open Git source control": false,
+          "workspaces:管理工作区布局": false
+        }
+      },
+      "active": "aa3442b25306ed7c",
+      "mtime": "2026-04-17T17:32:00+08:00"
+    }
+  },
+  "active": "demo"
+}
